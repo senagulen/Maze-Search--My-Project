@@ -1,5 +1,5 @@
 ### **Author**
-Developed by **Senagulen** 
+Developed by **senagulen** 
 # Maze Search Project
 
 ## Overview
